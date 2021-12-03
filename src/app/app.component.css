@@ -1,0 +1,24 @@
+.full-width{
+  width: 100%;
+}
+
+.top-padding{
+  padding-top: 3px;
+}
+
+.margin-left mat-radio-button:not(:first-child){
+  margin-left:10px;
+}
+
+.form-container{
+  margin: 100px;
+}
+
+.grey-icon {
+  color: grey;
+  font-size: 20px;
+}
+/* Note: If you're using an SVG icon, you should make the class target the `<svg>` element */
+.grey-icon svg {
+  fill: grey;
+}
